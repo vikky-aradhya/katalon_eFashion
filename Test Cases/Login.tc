@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8390f196-27cf-46ac-ab22-5417927cda34</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Login')</defaultValue>
+      <description></description>
+      <id>fd98e531-14e4-4aaf-ae40-5de0f6df69b8</id>
+      <masked>false</masked>
+      <name>Browser</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login')</defaultValue>
+      <description></description>
+      <id>24cbdb0f-c931-4379-9ab7-1d6d08c83738</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>
